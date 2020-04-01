@@ -195,3 +195,9 @@ a{
 a:active,a:focus,a:hover{
     color:#824027
 }
+
+.demoImage{
+
+    width:700px;
+    height:400px;
+}
