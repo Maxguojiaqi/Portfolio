@@ -13,5 +13,9 @@
 ![mainDemo](./img/appLanding.JPG)
 
 **Reference**:
+```
 Bootstrap: https://getbootstrap.com/
+Font awesome: https://fontawesome.com/
+jQuery: https://jquery.com/
 Start bootstrap:https://startbootstrap.com/template-overviews/resume/
+```
